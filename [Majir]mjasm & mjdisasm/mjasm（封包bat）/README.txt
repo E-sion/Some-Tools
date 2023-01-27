@@ -1,0 +1,1 @@
+把mjs和其对应的sjs文件放在这里，运行bat，即可封包成mjo文件。（不能删掉mjasm.exe）
